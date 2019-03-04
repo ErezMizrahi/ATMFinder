@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ATMFinder</string>
+    <string name="find">Find</string>
+    <string-array name="handiCap">
+        <item></item>
+        <item>כן</item>
+        <item>לא</item>
+    </string-array>
+    <string-array name="atmType">
+        <item></item>
+        <item>משיכת מזומן</item>
+        <item>מכשיר מידע</item>
+    </string-array>
+    <string-array name="commision">
+        <item></item>
+        <item>כן</item>
+        <item>לא</item>
+    </string-array>
+    <string-array name="bankName">
+        <item></item>
+        <item>בנק אגוד לישראל</item>
+        <item>בנק אוצר החייל</item>
+        <item>בנק דיסקונט לישראל</item>
+        <item>בנק הפועלים</item>
+        <item>בנק יהב לעובדי המדינה</item>
+        <item>בנק ירושלים</item>
+        <item>בנק לאומי לישראל</item>
+        <item>בנק מזרחי טפחות</item>
+        <item>בנק מרכנתיל דיסקונט</item>
+        <item>בנק פועלי אגודת ישראל</item>
+        <item>הבנק הבינלאומי הראשון לישראל</item>
+        <item>יובנק</item>
+    </string-array>
+
+    <string name="tab_text_1">משיכת מזומן</string>
+    <string name="tab_text_2">מתן הוראות</string>
+</resources>
