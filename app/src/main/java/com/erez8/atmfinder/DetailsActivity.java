@@ -92,7 +92,7 @@ public class DetailsActivity extends AppCompatActivity implements View.OnClickLi
         bankImages.put("בנק מזרחי טפחות בע\"מ",R.drawable.mizrahi);
         bankImages.put("בנק מרכנתיל דיסקונט בע\"מ",R.drawable.markintal);
         bankImages.put("בנק פועלי אגודת ישראל בע\"מ",R.drawable.poalibankisreal);
-        bankImages.put("בנק פועלי הבינלאומי הראשון ישראל בע\"מ",R.drawable.benlumiisreal);
+        bankImages.put("הבנק הבינלאומי הראשון לישראל בע\"מ",R.drawable.benlumiisreal);
         bankImages.put("יובנק בע\"מ",R.drawable.ubank);
     }
 
